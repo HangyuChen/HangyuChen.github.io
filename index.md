@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## Hello! I'm Hangyu Chen
 
 <img src="https://HangyuChen.github.io/hangyuchen.jpg" class="floatpic" width="360" height="480">
 

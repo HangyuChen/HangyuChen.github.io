@@ -1,21 +1,21 @@
-title: Hanlin Cai
+title: Hangyu Chen
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://HangyuChen.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  #name: Hangyu Chen
+  #avatar: hangyuchen.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  #email: zy1702202@buaa.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  #twitter: lancecai2002
   # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  #github: GuangLun2000
+  #linkedin: hanlin-cai-07b53b23b
+  #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -24,7 +24,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
