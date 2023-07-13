@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## \underline{\text{Hello! I'm Hangyu Chen}}
+## <u>Hello! I'm Hangyu Chen</u>
 
 <img src="https://HangyuChen.github.io/hangyuchen.jpg" class="floatpic" width="360" height="480">
 
