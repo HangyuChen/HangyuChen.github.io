@@ -42,7 +42,6 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 
 ## Skills
-
 <br>
 
 ### Software
