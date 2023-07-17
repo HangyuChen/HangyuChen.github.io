@@ -43,13 +43,13 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## Skills
 
----
+<br>
 
 ### Software
 
-- **EM Simulation**: MATLAB, CST Studio, ANSYS HFSS, FEKO
-- **Hardware Design**: Altium Designer, Auto CAD, Solidworks
-- **Digital Control**: Keil, IAR, Vivado
+- **EM Simulators**: MATLAB, CST Studio, ANSYS HFSS, FEKO
+- **Hardware Design Tools**: Altium Designer, Auto CAD, Solidworks
+- **Digital Programable IDEs**: Keil, IAR, Vivado
 - **Academic Writing Tools**: Texstudio, Origin, Unigraphics NX
 
 ### Language
