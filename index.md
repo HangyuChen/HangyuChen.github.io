@@ -42,8 +42,7 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 
 ## Skills
-<br>
-
+     
 ### Software
 
 - **EM Simulators**: MATLAB, CST Studio, ANSYS HFSS, FEKO
@@ -60,7 +59,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
-## SUBMISSIONS & PUBLICATIONS 
+## Submissions & Publications 
 
 - **H. Chen**, C. Jin, H. Wang, T. Wang, Q. Lv. ‘An Active Scattering Camouflage Metasurface
 Inspired by ’Chessboard’ Method’. IEEE Transactions on Antenna and Propagation (Submitted and under review) (**IF: 5.7**).
