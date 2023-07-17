@@ -13,7 +13,7 @@ I am **Hangyu Chen (Henry, 陈航宇)**.
 <!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf). -->
 <!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong).  -->
 
-I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Dec. 2021 I have been a research assistant at Beijing Institute of Technology and my current research lies in **antenna design**, **active metasurfaces** and **radar cross section analysis and control**. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
+I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Dec. 2021 I have been a research assistant at Beijing Institute of Technology and my current research lies in **antenna and array design**, **active metasurfaces** and **radar cross section analysis and control**. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
 
 
 **Now, I am looking for a PhD position starting in 2023 to continue research in relevant fields**. Furthermore, some of my key information is listed below to give you a basic description of me. Sincerely, I am glad to tell you more about me and what motivates me to pursue PhD in my personal statement by [clicking here]( https://hangyuchen.github.io/personalstatement/). 
@@ -32,17 +32,17 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 
 ## Research Interests
 
-- Antenna Design
+- Antenna and Array Design
 - Active Metasurfaces
 - Electromagnetic (EM) Waves
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+Basically, my current research can be classified into radiation and scattering, mainly including antenna and array design, active metasurfaces and radar cross section control. For radiation, some kinds of antennas and phased arrays with specific requirements have been investigated. For scattering, active metasurfaces and their radar cross section control have taken up most of my research in relation to scattering. Of course, welcome to review in detail by [clicking here](https://hangyuchen.github.io/research&outputs/), and leave your precious feedback on my research! 
 <br>
 
 ---
 
 ## Skills
-     
+
 ### Software
 
 - **EM Simulators**: MATLAB, CST Studio, ANSYS HFSS, FEKO
@@ -52,9 +52,8 @@ My current research focuses on practical problems that artificial intelligence f
 
 ### Language
 
-- TOEFL: 90 (Reading: 19 + Listening: 23 + Speaking: 21 + Writing: 27).
+- TOEFL: 90 (Reading: 19 + Listening: 23 + Speaking: 21 + Writing: 27)(Updating).
 - TOEFL (Best Score): 96 (Reading: 25 + Listening: 23 + Speaking: 21 + Writing: 27).
-- CET-4, CET-6.
 <br>
 
 ---
