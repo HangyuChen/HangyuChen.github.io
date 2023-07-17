@@ -77,11 +77,11 @@ Inspired by ’Chessboard’ Method’. IEEE Transactions on Antenna and Propaga
 
 ## Awards
 
-- National College Students Innovation and Entrepreneurship Project (Rank:3/245)            <p align="right">Teamleader</p> 
-- National Undergraduate Embedded Chip and System Design Competition           <p align="right">Third Prize</p> 
-- National College Students Smart Connect Innovation Competition in Northern China         <p align="right">Second Prize</p> 
-- 'Renesas' Cup National Undergraduate Electronic Design Contest in Shanxi              <p align="right">Second Prize</p> 
-- 'TI' Cup Shanxi University Student Electronic Design Contest             <p align="right">Second Prize</p> 
+- National College Students Innovation and Entrepreneurship Project (**Teamleader**, **Rank:3/245**)      
+- National Undergraduate Embedded Chip and System Design Competition (**Third Prize**)         
+- National College Students Smart Connect Innovation Competition in Northern China (**Second Prize**)        
+- 'Renesas' Cup National Undergraduate Electronic Design Contest in Shanxi (**Second Prize**)              
+- 'TI' Cup Shanxi University Student Electronic Design Contest (**Second Prize**)            
 - Beijing University of Aeronaut and Astronaut Graduate Academic Scholarship              
 
 <br>
