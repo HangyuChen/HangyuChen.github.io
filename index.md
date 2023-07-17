@@ -44,12 +44,12 @@ My current research focuses on practical problems that artificial intelligence f
 ## Skills
 
 ### Software
----
+
 - EM Simulation: MATLAB, CST Studio, ANSYS HFSS, FEKO
 - Hardware Design: Altium Designer, Auto CAD, Solidworks
 - Digital Control: Keil, IAR, Vivado
 - Academic Writing Tools: Texstudio, Origin, Unigraphics NX
----
+
 ### Language
 
 - TOEFL: 90 (Reading: 19 + Listening: 23 + Speaking: 21 + Writing: 27).
