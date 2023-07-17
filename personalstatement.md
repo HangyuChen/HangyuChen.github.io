@@ -4,7 +4,7 @@ permalink: /personalstatement/index.html
 title: Personal Statement
 ---
 
-# Personal Statement
+## Personal Statement
 
 <!-- P.S., click the hyperlink title to access the source.<br>
 

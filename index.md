@@ -2,19 +2,21 @@
 layout: page
 ---
 
-## Hello! I'm Hangyu Chen
+## Hello! 
 ---
 
 <img src="https://HangyuChen.github.io/hangyuchen.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+I am **Hangyu Chen (Henry, 陈航宇)**.
 <!-- Here is **Hangyu Chen (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))** -->
 
 <!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf). -->
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf).
+<!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong).  -->
 
-I have received my bachelor degree majoring in **Optoelectronic Information Science and Engineering** in the Department of Information and Communication Engineering at North University of China in Sep. 2017. And now, I have finished my master project (Electronic and Communication Engineering) in the Department of Electronic and Information Engineering at Beihang University and got the master degree in 2020.
+I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Dec. 2021 I have been a research assistant at Beijing Institute of Technology and my current research lies in antenna design, active metasurfaces and radar cross section analysis and control. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
 
+
+**Now, I am looking for a PhD position starting in 2023 to continue research in relevant fields**. Furthermore, some of my key information is listed below to give you a basic description of me. Sincerely, I am glad to tell you more about me and what motivates me to pursue PhD in my personal statement by [clicking here]( https://hangyuchen.github.io/personalstatement/). 
 <br>
 
 ## Academic Background
