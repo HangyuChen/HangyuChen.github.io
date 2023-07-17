@@ -4,9 +4,9 @@ permalink: /research&outputs/index.html
 title: Research&Outputs
 ---
 
-# Hobbies
+<!-- # Hobbies -->
 
-## Teaching & Workshops
+## Design of ASCMS (Active Scattering Camouflage Metasurfaces) Inspired by ‘Chessboard’ Method.
 
 <div class="third">
 <img src="/images/ascms1.jpg">
@@ -20,19 +20,19 @@ title: Research&Outputs
 
 
 
-## Swimming & Surfing
+## Design of Wideband Cascaded Slot Feed Phased Array with Low Sidelobe
 
 <!-- <div class="third">
 <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div> -->
-<div width="335" height="251">
+<div clss="img">
 <img src="/images/doublelayer.jpg">
 </div>
 <br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
 
-## Past Hobbies
+## Design of Non-uniform Dual-frequency Phased Array with Wide Scanning Angle
 
 I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
 
@@ -45,7 +45,7 @@ This is my love. Her name is Qbo (Q宝).
 </div>
 <br>
 
-## Chat with me
+## Antenna Scattering Analysis and Extraction Based on Radar 1D and 2D Imaging
 
 **Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
 
