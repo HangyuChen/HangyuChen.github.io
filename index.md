@@ -26,7 +26,6 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 - **Dec 2021 - Sep 2023:**  Beijing Institute of Technology (Research Assistant)
 - **Sep 2017 - June 2020:** Beijing University of Aeronaut and Astronaut (MSc)
 - **Sep 2013 - June 2017:** North University of China (BSc)
-
 <br>
 
 ---
@@ -38,7 +37,6 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 - Electromagnetic (EM) Waves
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
 <br>
 
 ---
@@ -46,19 +44,17 @@ My current research focuses on practical problems that artificial intelligence f
 ## Skills
 
 ### Software
-
+---
 - EM Simulation: MATLAB, CST Studio, ANSYS HFSS, FEKO
 - Hardware Design: Altium Designer, Auto CAD, Solidworks
 - Digital Control: Keil, IAR, Vivado
 - Academic Writing Tools: Texstudio, Origin, Unigraphics NX
-
-
+---
 ### Language
 
 - TOEFL: 90 (Reading: 19 + Listening: 23 + Speaking: 21 + Writing: 27).
 - TOEFL (Best Score): 96 (Reading: 25 + Listening: 23 + Speaking: 21 + Writing: 27).
 - CET-4, CET-6.
-
 <br>
 
 ---
@@ -70,7 +66,6 @@ Inspired by ’Chessboard’ Method’. IEEE Transactions on Antenna and Propaga
 - **H. Chen**, Zhao. J, Hong. T, Zheng. S, Hong. H, Cheriet. M. ‘A Measurement Method of Fifth-generation Multiple-input Multiple-output Antenna Based on Microwave Imaging’. International Journal of Distributed Sensor Networks (**IF: 2.3**).
 - Chai, **H. Chen**, H. Hong, C. Xu, J. Zhao, ‘Scattering Characteristics of Antennas in Cyberspace’. Chinese Journal of Engineering (in Chinese).
 - J. Zhao, **H. Chen** and X. Ye, ‘Research on the RCS of Serrate Gap in Real Aircraft State’. 2018 IEEE 18th International Conference on Communication Technology (**Awarded the Best Oral Presentation of Sessions**).
-
 <br>
 
 ---
@@ -88,7 +83,6 @@ Inspired by ’Chessboard’ Method’. IEEE Transactions on Antenna and Propaga
 - 'TI' Cup Shanxi University Student Electronic Design Contest 
 (**Second Prize**)            
 - Beijing University of Aeronaut and Astronaut Graduate Academic Scholarship              
-
 <br>
 
 ---
