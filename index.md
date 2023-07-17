@@ -13,7 +13,7 @@ I am **Hangyu Chen (Henry, 陈航宇)**.
 <!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf). -->
 <!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong).  -->
 
-I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Dec. 2021 I have been a research assistant at Beijing Institute of Technology and my current research lies in antenna design, active metasurfaces and radar cross section analysis and control. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
+I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Dec. 2021 I have been a research assistant at Beijing Institute of Technology and my current research lies in **antenna design**, **active metasurfaces** and **radar cross section analysis and control**. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
 
 
 **Now, I am looking for a PhD position starting in 2023 to continue research in relevant fields**. Furthermore, some of my key information is listed below to give you a basic description of me. Sincerely, I am glad to tell you more about me and what motivates me to pursue PhD in my personal statement by [clicking here]( https://hangyuchen.github.io/personalstatement/). 
@@ -21,11 +21,11 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
+<!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance) -->
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **Dec 2021 - Sep 2023:**  Beijing Institute of Technology (Research Assistant)
+- **Sep 2017 - June 2020:** Beijing University of Aeronaut and Astronaut (MSc)
+- **Sep 2013 - June 2017:** North University of China (BSc)
 
 <br>
 
@@ -33,9 +33,9 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 
 ## Research Interests
 
-- Industrial IoT System
-- Applied Machine Learning
-- Bionic Quadruped Robot
+- Antenna Design
+- Active Metasurfaces
+- Electromagnetic (EM) Waves
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
@@ -43,7 +43,54 @@ My current research focuses on practical problems that artificial intelligence f
 
 ---
 
-## News and Updates
+## Skills
+
+### Software
+
+- EM Simulation: MATLAB, CST Studio, ANSYS HFSS, FEKO
+- Hardware Design: Altium Designer, Auto CAD, Solidworks
+- Digital Control: Keil, IAR, Vivado
+- Academic Writing Tools: Texstudio, Origin, Unigraphics NX
+
+
+### Language
+
+- TOEFL: 90 (Reading: 19 + Listening: 23 + Speaking: 21 + Writing: 27).
+- TOEFL (Best Score): 96 (Reading: 25 + Listening: 23 + Speaking: 21 + Writing: 27).
+- CET-4, CET-6.
+
+<br>
+
+---
+
+## SUBMISSIONS & PUBLICATIONS 
+
+- **H. Chen**, C. Jin, H. Wang, T. Wang, Q. Lv. ‘An Active Scattering Camouflage Metasurface
+Inspired by ’Chessboard’ Method’. IEEE Transactions on Antenna and Propagation (Submitted and under review) (**IF: 5.7**).
+- **H. Chen**, Zhao. J, Hong. T, Zheng. S, Hong. H, Cheriet. M. ‘A Measurement Method of Fifth-generation Multiple-input Multiple-output Antenna Based on Microwave Imaging’. International Journal of Distributed Sensor Networks (**IF: 2.3**).
+- Chai, **H. Chen**, H. Hong, C. Xu, J. Zhao, ‘Scattering Characteristics of Antennas in Cyberspace’. Chinese Journal of Engineering (in Chinese).
+- J. Zhao, **H. Chen** and X. Ye, ‘Research on the RCS of Serrate Gap in Real Aircraft State’. 2018 IEEE 18th International Conference on Communication Technology (**Awarded the Best Oral Presentation of Sessions**).
+
+<br>
+
+---
+
+## Awards
+
+- National College Students Innovation and Entrepreneurship Project (Rank:3/245)            <p align="right">Teamleader</p> 
+- National Undergraduate Embedded Chip and System Design Competition           <p align="right">Third Prize</p> 
+- National College Students Smart Connect Innovation Competition in Northern China         <p align="right">Second Prize</p> 
+- 'Renesas' Cup National Undergraduate Electronic Design Contest in Shanxi              <p align="right">Second Prize</p> 
+- 'TI' Cup Shanxi University Student Electronic Design Contest             <p align="right">Second Prize</p> 
+- Beijing University of Aeronaut and Astronaut Graduate Academic Scholarship              
+
+<br>
+
+---
+
+
+
+<!-- ## News and Updates
 
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Happy to win the Finalist Award in MCM 2023.
@@ -53,4 +100,4 @@ My current research focuses on practical problems that artificial intelligence f
 - **Sep 2022：**Happy to be nominated for the China National Scholarship.
 - **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
 
-<br>
+<br> -->
