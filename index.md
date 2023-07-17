@@ -36,7 +36,7 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 - Active Metasurfaces
 - Electromagnetic (EM) Waves
 
-Basically, my current research can be classified into radiation and scattering, mainly including antenna and array design, active metasurfaces and radar cross section control. For radiation, some kinds of antennas and phased arrays with specific requirements have been investigated. For scattering, active metasurfaces and their radar cross section control have taken up most of my research in relation to scattering. Of course, welcome to review in detail by [clicking here](https://hangyuchen.github.io/research&outputs/), and leave your precious feedback on my research! 
+Basically, my current research can be classified into radiation and scattering, mainly including antenna and array design, active metasurfaces and radar cross section control. For radiation, some kinds of antennas and phased arrays with specific requirements have been investigated. For scattering, active metasurfaces and their radar cross section control have taken up most of my research in relation to scattering. Of course, welcome to review my work by [clicking here](https://hangyuchen.github.io/research&outputs/), and leave your precious feedback on my research! 
 <br>
 
 ---
