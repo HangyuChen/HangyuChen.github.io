@@ -13,12 +13,16 @@ title: Research&Outputs
 <img src="/images/ascms2.jpg">
 <img src="/images/ascms3.jpg">
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
+<br>Low radar cross section (RCS) metasurfaces contribute to the stealth performance of aircrafts overhead on account of their low RCS characteristic consistent with the broad sky. However, when it comes to some equipment on the ground, that is another story. Given that background alters to the ground or forests, low RCS metasurfaces will have the opposite effect on the safety of equipment since it directly exposes equipment to the radar detections from the air. To address this issue, ASCMS, composed of uniform units loaded with PIN diodes, is proposed in this research. Some key points of this reserach can be concluded as follows:
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+- Analyze and build up the algorithm to synthesize and manipulate the scattering of ASCMS, then verify algorithm in Matlab.
+- Design and simulate ASCMS units loaded with PIN diodes in CST Studio to satisfy both amplitude and phase requirement in algorithm.
+- Implement units in CST Studio with specific distribution of units corresponding to the set scattering goal via co-simulation method. Then, transform the simulation model in CST Studio into Printed Circuit Board file in Altium Designer and fabricate ASCMS.
+- Code each ASCMS unit as set forth via microcontroller STM32F407VGT6 and conduct measurement.
 
+This research has been summarized into an academic article and submitted to IEEE Transaction on Antenna and Propagation, welcome to review this research in PDF format by [clicking here](https://HangyuChen.github.io/file/resume-hangyuchen.pdf).
 
+---
 
 ## Design of Wideband Cascaded Slot Feed Phased Array with Low Sidelobe
 
@@ -30,27 +34,33 @@ title: Research&Outputs
 <div>
 <img src="/images/doublelayer.jpg" class="chy">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my swimming career. Recently, I am also keen on surfing.
+<br>A linear array comprised of 16 antenna elements are devised to achieve wide operation band and low sidelobe level. For single element, patches are cascaded vertically and fed by slots. Furthermore, EM energy, output by T/R modules and travelling along microstrip line, is coupled into slots. My contributions are listed below:
+
+- Design and optimize the double layer patch antenna element according to performance indexes such as operation bandwidth in ANSYS HFSS.
+- Calculate the specific excitation power weight to achieve set sidelobe level goal and array elements linearly in HFSS to verify sidelobe level.
+- Design one to sixteen power divider in HFSS and simulate both power divider and linear array. Insert attenuator, digital phase shifter and LNA and conduct measurement.
+
+---
 
 ## Design of Non-uniform Dual-frequency Phased Array with Wide Scanning Angle
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+To achieve a phased array operating at two distinct frequencies and realize wide-angle scanning of high frequency array, both quasi hexagonal patch array and dipole array are deployed. My contributions are listed below:
 
-## My Cat
+- Design and optimize patch antenna and erected dipole antenna in HFSS, including the balun transformer to rectify the beam.
+- Deploy and synthesize the whole array in a proper way to extend the scanning angle and depress grating lobe compared with conventional rectangular lattice array and verify deployment in Matlab.
+- Array antenna elements and assign port excitations in HFSS with the stimuli derived from numerical calculation and conduct simulation.
 
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
+---
 
 ## Antenna Scattering Analysis and Extraction Based on Radar 1D and 2D Imaging
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+To modify conventional method of extracting the scattering of antenna and detect the working status of MIMO array, a detection and extraction method based on both 1-D and 2-D microwave imaging is investigated in this research. My contributions are listed below:
 
-<!-- Calendly inline widget begin -->
+- Learn radar one-dimensional and two-dimensional imaging algorithm and implement algorithm in Matlab.
+- Analyze the scattering constituents of antenna and conduct the simulation in FEKO, where electric fields are extracted to verify the analysis in 1-D and 2-D imaging algorithm.
+- Separate structural scattering from mode scattering of the antenna and extract complete scattering of antenna via electric field data stemmed from FEKO in Matlab.
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+This research has been summarized into an academic article and published in International Journal of Distributed Sensor Networks. Welcome to leave your precious feedback after reviewing this research article in PDF format by [clicking here](https://HangyuChen.github.io/file/resume-hangyuchen.pdf).
+
+
+---
