@@ -6,7 +6,7 @@ title: Research&Outputs
 
 <!-- # Hobbies -->
 
-## Design of ASCMS (Active Scattering Camouflage Metasurfaces) Inspired by ‘Chessboard’ Method.
+## Design of ASCMS (Active Scattering Camouflage Metasurfaces) Inspired by ‘Chessboard’ Method
 
 <div class="third">
 <img src="/images/ascms1.jpg">
