@@ -43,10 +43,11 @@ This project we applied for was selected as ‘National College Students Innovat
 ---
 
 ## Grocery Cashier System
-<img src="/images/grocery.png" >
-To support the small grocery of my parents and reduce cost for family, a mini cashier desk application driven by lightweight database MySQL was devised and is still in used at present.
+<img src="/images/grocery.png" class="chy">
+To support the small grocery of my parents and reduce cost for family, a mini cashier desk application driven by lightweight database MySQL was devised and is still in use at present.
 
 - Learn E language grammar and basic SQL commands.
 - Construct the basic application frame on screen and logic of the whole system including processing the input information, adding or deleting the commodity information and etc.
 - Debug the interaction between application and database via SQL commands in E language.
 
+---
