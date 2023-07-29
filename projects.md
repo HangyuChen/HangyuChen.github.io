@@ -15,7 +15,7 @@ This project we applied for was selected as ‘National College Students Innovat
 
 ---
 
-## Wind control system
+## Wind Control System
 
 <!-- <div> -->
 <img src="/images/nuedc.jpg" class="floatpic" width="360" height="480">
@@ -44,7 +44,7 @@ This project we applied for was selected as ‘National College Students Innovat
 
 ## Grocery Cashier System
 <img src="/images/grocery.png">
-<br>To support the small grocery of my parents and reduce cost for family, a mini cashier desk application driven by lightweight database MySQL was devised and is still in use at present.
+<br>To support the small grocery of my parents and reduce cost for my family, a mini cashier desk application driven by lightweight database MySQL was devised and is still in use at present.
 
 - Learn E language grammar and basic SQL commands.
 - Construct the basic application frame on screen and logic of the whole system including processing the input information, adding or deleting the commodity information and etc.
