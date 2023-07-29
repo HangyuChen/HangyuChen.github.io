@@ -60,9 +60,9 @@ This repo is where I keep track of my incredible journey at FZU-MIEC. You can le
 
 My name is Hangyu Chen. I have received my bachelor degree at North University of China in 2017 and master degree at Beijing University of Aeronaut and Astronaut in 2020, majoring in Optoelectronic Information Science and Engineering, and Electronic and Communication Engineering, respectively. From Dec. 2021, I have been a research assistant at Beijing Institute of Technology. My current research involves antenna and array design, active metasurfaces and radar cross section analysis and control. Now, I am seeking for a PhD position starting in 2023/24 to continue research in relevant fields. Some main reasons that motivate me to pursue further research are listed below:
 
----
 
 <br>First of all, the experience I have accumulated during my undergraduate enlightened me a lot. To be specific, both professional knowledge imparted by teachers in class and extracurricular activities I took part in directed me where to go. In class, some required courses, such as Analog Circuit, Digital Circuit and Signal and System, enriched my knowledge and guided me to explore the electronic world. Out of class, when I was a freshman in 2013, I was luckily selected as a member of Student Innovation Laboratory out of curiosity. But as time went by, the more professional knowledge I obtained, the more eager I became to verify what I learned. (The following photo was taken at the beginning of 2014 when I manually fabricated my first printed circuit board, which was used for 2014 Shanxi Province Undergraduates Electronic Design Contest).
+<br>
 
 <img src="/images/pcb.jpg">
 
