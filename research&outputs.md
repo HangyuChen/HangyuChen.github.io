@@ -60,7 +60,7 @@ To modify conventional method of extracting the scattering of antenna and detect
 - Analyze the scattering constituents of antenna and conduct the simulation in FEKO, where electric fields are extracted to verify the analysis in 1-D and 2-D imaging algorithm.
 - Separate structural scattering from mode scattering of the antenna and extract complete scattering of antenna via electric field data stemmed from FEKO in Matlab.
 
-This research has been summarized into an academic article and published in International Journal of Distributed Sensor Networks. Welcome to leave your precious feedback after reviewing this research article in PDF format by [clicking here](https://HangyuChen.github.io/file/resume-hangyuchen.pdf).
+This research has been summarized into an academic article and published in International Journal of Distributed Sensor Networks. Welcome to leave your precious feedback after reviewing this research article in PDF format by [clicking here](https://HangyuChen.github.io/file/2020.pdf).
 
 
 ---
