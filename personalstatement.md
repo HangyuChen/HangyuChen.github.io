@@ -5,7 +5,7 @@ title: Personal Statement
 ---
 
 ## Personal Statement
-
+---
 <!-- P.S., click the hyperlink title to access the source.<br>
 
 #### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
@@ -61,7 +61,7 @@ This repo is where I keep track of my incredible journey at FZU-MIEC. You can le
 My name is Hangyu Chen. I have received my bachelor degree at North University of China in 2017 and master degree at Beijing University of Aeronaut and Astronaut in 2020, majoring in Optoelectronic Information Science and Engineering, and Electronic and Communication Engineering, respectively. From Dec. 2021, I have been a research assistant at Beijing Institute of Technology. My current research involves antenna and array design, active metasurfaces and radar cross section analysis and control. Now, I am seeking for a PhD position starting in 2023/24 to continue research in relevant fields. Some main reasons that motivate me to pursue further research are listed below:
 
 
-<br>First of all, the experience I have accumulated during my undergraduate enlightened me a lot. To be specific, both professional knowledge imparted by teachers in class and extracurricular activities I took part in directed me where to go. In class, some required courses, such as Analog Circuit, Digital Circuit and Signal and System, enriched my knowledge and guided me to explore the electronic world. Out of class, when I was a freshman in 2013, I was luckily selected as a member of Student Innovation Laboratory out of curiosity. But as time went by, the more professional knowledge I obtained, the more eager I became to verify what I learned. (The following photo was taken at the beginning of 2014 when I manually fabricated my first printed circuit board, which was used for 2014 Shanxi Province Undergraduates Electronic Design Contest).
+<br>First of all, the experience I have accumulated during my undergraduate enlightened me a lot. To be specific, both professional knowledge imparted by teachers in class and extracurricular activities I took part in directed me where to go. In class, some required courses, such as Analog Circuit, Digital Circuit and Signal and System, enriched my knowledge and guided me to explore the electronic world. Out of class, when I was a freshman in 2013, I was luckily selected as a member of Student Innovation Laboratory out of curiosity. But as time went by, the more professional knowledge I obtained, the more eager I became to verify what I learned. (The following photo was taken at the beginning of 2014 when I manually fabricated my first printed circuit board, which was used for 2014 Shanxi Province Undergraduates Electronic Design Contest)
 
 
 <br><img src="/images/pcb.jpg">
@@ -70,7 +70,7 @@ My name is Hangyu Chen. I have received my bachelor degree at North University o
 
 <br>Second of all, the study and research when I pursued my master degree provided me with new visions and laid a solid foundation for my future research on relevant fields. As mentioned before, during my undergraduates when lacking of knowledge about antenna, I was wondering how some wireless electronic modules, such as GPS antenna in SIM808 and nRF24L01, delivered the message through the air without any physical connection. Not until I took Antenna course during master period did I understand its mechanism and decide to do some research on antenna. Thus, I conducted the research on scattering of antenna based on microwave imaging through the whole master period. In this process, I grasped a lot of skills to use professional simulation software such as FEKO, ANSYS HFSS, and CST Studio. Most importantly and fortunately, supervised by Dr. Jingcheng Zhao, I acquired capability of analyzing complicated issues. Besides, some of my research outputs were concluded and published in IEEE 18th International Conference on Communication Technology (Awarded the Best Oral Presentation of Sessions). Eventually, I summed my research and wrote an article published in International Journal of Distributed Sensor Networks (IF 2.3). 
 
-<br>After graduation from Beijing University of Aeronaut and Astronaut, I worked at Beijing Institute of Technology serving as a research assistant and continued my research on antenna and array design, active metasurfaces and radar cross section analysis and control. During this period I concluded my research and wrote an article which was submitted to IEEE Transaction on Antenna Propagation (IF 5.7) and under review.
+<br>After graduation from Beijing University of Aeronaut and Astronaut, I worked at Beijing Institute of Technology serving as a research assistant and continued my research on antenna and array design, active metasurfaces and radar cross section analysis and control. During this period I concluded my research and wrote an article which was submitted to IEEE Transaction on Antenna Propagation (IF 5.7) and under review. Devoting myself to doing research of brings me a great sense of fulfillment.
 
 <br>At last, based on facts and reasons stated above, I firmly choose to look for a PhD vacancy and continue my research on relevant fields.
 
