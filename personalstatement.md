@@ -72,5 +72,5 @@ My name is Hangyu Chen. I have received my bachelor degree at North University o
 
 <br>After graduation from Beijing University of Aeronaut and Astronaut, I worked at Beijing Institute of Technology serving as a research assistant and continued my research on antenna and array design, active metasurfaces and radar cross section analysis and control. During this period I concluded my research and wrote an article which was submitted to IEEE Transaction on Antenna Propagation (IF 5.7) and under review. Devoting myself to doing research of brings me a great sense of fulfillment.
 
-<br>At last, based on facts and reasons stated above, I firmly choose to look for a PhD vacancy and continue my research on relevant fields.
+<br>At last, based on facts and reasons stated above, I firmly choose to look for a PhD position and continue my research on relevant fields.
 
