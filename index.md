@@ -13,7 +13,7 @@ I am **Hangyu Chen (Henry, 陈航宇)**.
 <!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf). -->
 <!-- I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong).  -->
 
-I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Dec. 2021 I have been a research assistant at Beijing Institute of Technology and my current research lies in **antenna and array design**, **active metasurfaces** and **radar cross section analysis and control**. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
+I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Jun. 2020 I have been a research assistant at Beijing University of Aeronaut and Astronaut Yunnan Innovation Institute and my current research lies in **antenna and array design**, **active metasurfaces** and **radar cross section analysis and control**. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
 
 
 **Now, I am looking for a PhD position starting in 2023 to continue research in relevant fields**. Furthermore, some of my key information is listed below to give you a basic description of me. Sincerely, I am glad to tell you more about me and what motivates me to pursue PhD in my personal statement by [clicking here]( https://hangyuchen.github.io/personalstatement/). 
@@ -23,7 +23,7 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance) -->
 
-- **Dec 2021 - Sep 2023:**  Beijing Institute of Technology (Research Assistant)
+- **June 2020 - Sep 2023:**  Beijing University of Aeronaut and Astronaut Yunnan Innovation Institute (Research Assistant)
 - **Sep 2017 - June 2020:** Beijing University of Aeronaut and Astronaut (MSc)
 - **Sep 2013 - June 2017:** North University of China (BSc)
 <br>
