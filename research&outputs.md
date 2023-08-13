@@ -18,9 +18,10 @@ title: Research&Outputs
 - Analyze and build up the algorithm to synthesize and manipulate the scattering of ASCMS, then verify algorithm in Matlab.
 - Design and simulate ASCMS units loaded with PIN diodes in CST Studio to satisfy both amplitude and phase requirement in algorithm.
 - Implement units in CST Studio with specific distribution of units corresponding to the set scattering goal via co-simulation method. Then, transform the simulation model in CST Studio into Printed Circuit Board file in Altium Designer and fabricate ASCMS.
-- Code each ASCMS unit as set forth via microcontroller STM32F407VGT6 and conduct measurement.
+- Code each ASCMS unit as set forth via microcontroller STM32F407VGT6 and conduct measurement, which shows a good agreement with simulation .
 
-This research has been summarized into an academic article and submitted to IEEE Transaction on Antenna and Propagation, welcome to review this research in PDF format by [clicking here](https://HangyuChen.github.io/file/resume-hangyuchen.pdf).
+This research has been summarized into an academic article and submitted to IEEE Transactions on Antenna and Propagation.
+ <!-- welcome to review this research in PDF format by [clicking here](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). -->
 
 ---
 
@@ -60,7 +61,7 @@ To modify conventional method of extracting the scattering of antenna and detect
 - Analyze the scattering constituents of antenna and conduct the simulation in FEKO, where electric fields are extracted to verify the analysis in 1-D and 2-D imaging algorithm.
 - Separate structural scattering from mode scattering of the antenna and extract complete scattering of antenna via electric field data stemmed from FEKO in Matlab.
 
-This research has been summarized into an academic article and published in International Journal of Distributed Sensor Networks. Welcome to leave your precious feedback after reviewing this research article in PDF format by [clicking here](https://HangyuChen.github.io/file/2020.pdf).
+This research has been summarized into an academic article and published in International Journal of Distributed Sensor Networks. Welcome to leave your precious feedback after reviewing this research article in PDF format by [clicking here](https://HangyuChen.github.io/file/2020.pdf) and [here](https://HangyuChen.github.io/file/CT177.pdf).
 
 
 ---

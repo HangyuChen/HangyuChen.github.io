@@ -16,7 +16,7 @@ I am **Hangyu Chen (Henry, 陈航宇)**.
 I have received bachelor degree majoring in **Optoelectronic Information Science and Engineering** at North University of China in 2017, and master degree majoring in **Electronic and Communication Engineering** at Beijing University of Aeronaut and Astronaut in 2020. Since Jun. 2020 I have been a research assistant at Beijing University of Aeronaut and Astronaut Yunnan Innovation Institute and my current research lies in **antenna and array design**, **active metasurfaces** and **radar cross section analysis and control**. Here is [my Resume](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). 
 
 
-**Now, I am looking for a PhD position starting in 2023 to continue research in relevant fields**. Furthermore, some of my key information is listed below to give you a basic description of me. Sincerely, I am glad to tell you more about me and what motivates me to pursue PhD in my personal statement by [clicking here]( https://hangyuchen.github.io/personalstatement/). 
+**Now, I am looking for a PhD position starting in 2024 to continue research in relevant fields**. Furthermore, some of my key information is listed below to give you a basic description of me. Sincerely, I am glad to tell you more about me and what motivates me to pursue PhD in my personal statement by [clicking here]( https://hangyuchen.github.io/personalstatement/). 
 <br>
 
 ## Academic Background
@@ -47,7 +47,7 @@ Basically, my current research can be classified into radiation and scattering, 
 
 - **EM Simulators**: MATLAB, CST Studio, ANSYS HFSS, FEKO
 - **Hardware Design Tools**: Altium Designer, Auto CAD, Solidworks
-- **Digital Programable IDEs**: Keil, IAR, Vivado
+- **Digital Development Tools**: Keil, IAR, Vivado
 - **Academic Writing Tools**: Texstudio, Origin, Unigraphics NX
 
 ### Language

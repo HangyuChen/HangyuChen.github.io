@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /contests&projects/index.html
+title: Contests&Projects
 ---
 
 ## Intelligent Bicycle System with Automatic Shift and Anti-theft
