@@ -18,7 +18,7 @@ title: Research&Outputs
 - Analyze and build up the algorithm to synthesize and manipulate the scattering of ASCMS, then verify algorithm in Matlab.
 - Design and simulate ASCMS units loaded with PIN diodes in CST Studio to satisfy both amplitude and phase requirement in algorithm.
 - Implement units in CST Studio with specific distribution of units corresponding to the set scattering goal via co-simulation method. Then, transform the simulation model in CST Studio into Printed Circuit Board file in Altium Designer and fabricate ASCMS.
-- Code each ASCMS unit as set forth via microcontroller STM32F407VGT6 and conduct measurement, which shows a good agreement with simulation .
+- Integrate the algorithm and ASCMS control into both programmable logic (PL) and processing system (PS) of hardware platform Xilinx Zynq-XC7Z010, where data interact via AXI4-Lite interface. And then conduct measurement, which shows a good agreement with simulation .
 
 This research has been summarized into an academic article and submitted to IEEE Transactions on Antenna and Propagation.
  <!-- welcome to review this research in PDF format by [clicking here](https://HangyuChen.github.io/file/resume-hangyuchen.pdf). -->

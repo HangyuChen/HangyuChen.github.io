@@ -23,7 +23,7 @@ I have received bachelor degree majoring in **Optoelectronic Information Science
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance) -->
 
-- **June 2020 - Sep 2023:**  Beijing University of Aeronaut and Astronaut Yunnan Innovation Institute (Research Assistant)
+- **June 2020 - Present:**  Beijing University of Aeronaut and Astronaut Yunnan Innovation Institute (Research Assistant)
 - **Sep 2017 - June 2020:** Beijing University of Aeronaut and Astronaut (MSc)
 - **Sep 2013 - June 2017:** North University of China (BSc)
 <br>
@@ -47,7 +47,7 @@ Basically, my current research can be classified into radiation and scattering, 
 
 - **EM Simulators**: MATLAB, CST Studio, ANSYS HFSS, FEKO
 - **Hardware Design Tools**: Altium Designer, Auto CAD, Solidworks
-- **Digital Development Tools**: Keil, IAR, Vivado
+- **Digital Development Tools**: Keil, Vivado, IAR
 - **Academic Writing Tools**: Texstudio, Origin, Unigraphics NX
 
 ### Language
@@ -63,7 +63,6 @@ Basically, my current research can be classified into radiation and scattering, 
 - **H. Chen**, C. Jin, H. Wang, T. Wang, Q. Lv. ‘An Active Scattering Camouflage Metasurface
 Inspired by ’Chessboard’ Method’. IEEE Transactions on Antenna and Propagation (Submitted and under review) (**IF: 5.7**).
 - **H. Chen**, Zhao. J, Hong. T, Zheng. S, Hong. H, Cheriet. M. ‘A Measurement Method of Fifth-generation Multiple-input Multiple-output Antenna Based on Microwave Imaging’. International Journal of Distributed Sensor Networks (**IF: 2.3**).
-- Chai, **H. Chen**, H. Hong, C. Xu, J. Zhao, ‘Scattering Characteristics of Antennas in Cyberspace’. Chinese Journal of Engineering (in Chinese).
 - J. Zhao, **H. Chen** and X. Ye, ‘Research on the RCS of Serrate Gap in Real Aircraft State’. 2018 IEEE 18th International Conference on Communication Technology (**Awarded the Best Oral Presentation of Sessions**).
 <br>
 
