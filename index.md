@@ -60,7 +60,7 @@ Basically, my current research can be classified into radiation and scattering, 
 
 ## Submissions & Publications 
 
-- **H. Chen**, C. Jin, H. Wang, T. Wang, Q. Lv. ‘An Active Scattering Camouflage Metasurface
+- **H. Chen**, Hong. T, ‘An Active Scattering Camouflage Metasurface
 Inspired by ’Chessboard’ Method’. IEEE Transactions on Antenna and Propagation (Submitted and under review) (**IF: 5.7**).
 - **H. Chen**, Zhao. J, Hong. T, Zheng. S, Hong. H, Cheriet. M. ‘A Measurement Method of Fifth-generation Multiple-input Multiple-output Antenna Based on Microwave Imaging’. International Journal of Distributed Sensor Networks (**IF: 2.3**).
 - J. Zhao, **H. Chen** and X. Ye, ‘Research on the RCS of Serrate Gap in Real Aircraft State’. 2018 IEEE 18th International Conference on Communication Technology (**Awarded the Best Oral Presentation of Sessions**).
